@@ -10,7 +10,7 @@ Astarion from *Baldur's Gate 3*, replacing Apollo in [Deadlock](https://store.st
 - Two outfits, one download each: **Camp** and **Ascended**
 - The Ascended coat has real cloth physics: the coattails swing and settle as he moves
 - The Infernal Rapier replaces Apollo's rapier
-- 758 of Apollo's voice lines replaced with Astarion's, plus 138 extra lines for variety (the ult cycles through his Latin incantations). Hero-specific pings keep Apollo's voice so callouts stay clear.
+- 788 of Apollo's voice lines replaced with Astarion's, plus 157 extra lines for variety (the ult cycles through his Latin incantations). Hero-specific pings keep Apollo's voice so callouts stay clear.
 - Custom hero-select scene in the Ascension ritual chamber, with a new pose (also on the main menu and post-game screen)
 - Hero cards, portraits, icons, weapon art and an ASTARION name title
 
